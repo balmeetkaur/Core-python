@@ -1,1 +1,1 @@
-This repository contains programs based on core python concepts to advance .
+This repository contains concepts of core python and related programs 
